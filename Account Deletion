@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Deletion Request - My Spending Note</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 600px; margin: 0 auto; color: #333; }
+        h1 { color: #1a73e8; }
+        .box { background: #f8f9fa; border-left: 4px solid #1a73e8; padding: 15px; margin: 20px 0; }
+        code { background: #e8eaed; padding: 2px 6px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <h1>My Spending Note</h1>
+    <h2>Account & Data Deletion Request</h2>
+    <p>If you wish to delete your account and all associated data stored with <strong>My Spending Note</strong>, you can do so through either of the options below:</p>
+    
+    <div class="box">
+        <h3>Option 1: In-App Deletion (Recommended)</h3>
+        <p>1. Open the <strong>My Spending Note</strong> app.<br>
+           2. Navigate to <strong>Settings</strong>.<br>
+           3. Tap <strong>Delete Account</strong> and confirm.</p>
+        <p><em>This immediately and permanently deletes your account and all synced spending records from our Firebase servers.</em></p>
+    </div>
+
+    <div class="box">
+        <h3>Option 2: Email Deletion Request</h3>
+        <p>If you have uninstalled the app or cannot access it, email us at:<br>
+           <a href="onemuhdhatimzayn@gmail.com">your-email@gmail.com</a></p>
+        <p><strong>Subject:</strong> Account Deletion Request - My Spending Note<br>
+           <strong>Details to include:</strong> The registered email address associated with your account.</p>
+        <p>We will delete your Firebase authentication account and associated records within 30 days of receiving your email.</p>
+    </div>
+</body>
+</html>
